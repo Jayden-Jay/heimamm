@@ -6,7 +6,7 @@ import VueRouter from 'vue-router'
 
 //导入组件
 import Login from '@/views/login'
-import Login from '@/views/layout'
+import Layout from '@/views/layout'
 
 // 注册路由
 Vue.use(VueRouter);

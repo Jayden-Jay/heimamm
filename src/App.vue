@@ -9,5 +9,5 @@ export default {
 </script>
 
 <style lang='less'>
-      @import url('~@styles/base.less');
+      @import url('~@/styles/base.less');
 </style>
